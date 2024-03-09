@@ -1,0 +1,11 @@
+.custom{
+    background: url(imag1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+header h1{
+    color: aliceblue;
+}
+.white1{
+    color: aliceblue;
+}
